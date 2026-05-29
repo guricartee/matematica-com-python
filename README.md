@@ -41,6 +41,13 @@ Resolução de Problemas de Engenharia
 Aplicar conceitos matemáticos e computacionais na resolução de situações reais da engenharia, utilizando Python como ferramenta de cálculo, automação e análise gráfica.
 Além disso, o desenvolvimento do projeto teve como foco fortalecer habilidades em raciocínio lógico, análise de dados e resolução de problemas computacionais, utilizando bibliotecas Python para automatizar cálculos e gerar representações gráficas que facilitam a interpretação dos resultados. O projeto também evidencia a importância da tecnologia e da programação no contexto da engenharia moderna, mostrando como ferramentas computacionais podem auxiliar em tomadas de decisão, análises matemáticas e modelagens aplicadas em áreas como Engenharia Civil, Mecânica, Elétrica, Produção e Computação.
 
+## 📂 Estrutura do Projeto
+
+```text
+├── matematica-computacional.ipynb   → Notebook principal contendo os exercícios, cálculos matemáticos, gráficos e aplicações
+├── README.md                        → Documentação e descrição do projeto
+└── LICENSE                          → Licença do projeto
+
 ## 🛠️ Como Executar o Projeto
 
 Clone o repositório:
