@@ -65,6 +65,10 @@ Jupyter Notebook
 
 VS Code com extensão Python
 
+
+
+
+
 Caso utilize Jupyter Notebook, execute:
 ````bash
 jupyter notebook
