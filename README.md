@@ -47,6 +47,7 @@ Além disso, o desenvolvimento do projeto teve como foco fortalecer habilidades 
 ├── matematica-computacional.ipynb   → Notebook principal contendo os exercícios, cálculos matemáticos, gráficos e aplicações
 ├── README.md                        → Documentação e descrição do projeto
 └── LICENSE                          → Licença do projeto
+````
 
 ## 🛠️ Como Executar o Projeto
 
