@@ -50,7 +50,7 @@ git clone https://github.com/guricartee/matematica-com-python.git
 
 Acesse a pasta do projeto:
 ````bash
-cd matematica-computacional-python
+cd matematica-com-python
 ````
 Instale as bibliotecas necessárias:
 ````bash
@@ -71,5 +71,5 @@ jupyter notebook
 ````
 Abra o arquivo:
 ````bash
-Projeto_A3.ipynb
+matematica-computacional.ipynb
 ````
