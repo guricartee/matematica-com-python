@@ -1,10 +1,6 @@
 ## 📊 Projeto de Matemática Computacional com Python
 
-Este projeto reúne conceitos de matemática computacional, programação em Python e visualização de dados através de gráficos, aplicados na resolução de aproximadamente 15 problemas envolvendo diferentes áreas da engenharia.
-
-O objetivo do projeto é demonstrar, na prática, como a programação pode ser utilizada para modelar, calcular e representar problemas matemáticos e físicos presentes em áreas como Engenharia Civil, Mecânica, Elétrica, Produção e Computação.
-
-Foram utilizados recursos como funções matemáticas, cálculos algébricos, trigonometria, análise de dados e geração de gráficos com bibliotecas Python, proporcionando uma abordagem visual e interativa para a interpretação dos resultados.
+Este projeto reúne conceitos de matemática computacional, programação em Python e visualização de dados através de gráficos, aplicados na resolução de aproximadamente 15 problemas envolvendo diferentes áreas da engenharia. O objetivo do projeto é demonstrar, na prática, como a programação pode ser utilizada para modelar, calcular e representar problemas matemáticos e físicos presentes em áreas como Engenharia Civil, Mecânica, Elétrica, Produção e Computação. Foram utilizados recursos como funções matemáticas, cálculos algébricos, trigonometria, análise de dados e geração de gráficos com bibliotecas Python, proporcionando uma abordagem visual e interativa para a interpretação dos resultados.
 
 ## 🛠️ Tecnologias Utilizadas
 -Python
