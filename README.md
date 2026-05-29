@@ -6,7 +6,7 @@ O objetivo do projeto é demonstrar, na prática, como a programação pode ser 
 
 Foram utilizados recursos como funções matemáticas, cálculos algébricos, trigonometria, análise de dados e geração de gráficos com bibliotecas Python, proporcionando uma abordagem visual e interativa para a interpretação dos resultados.
 
-## 🚀 Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 -Python
 
 -Pandas
@@ -49,7 +49,7 @@ Além disso, o desenvolvimento do projeto teve como foco fortalecer habilidades 
 └── LICENSE                          → Licença do projeto
 ````
 
-## 🛠️ Como Executar o Projeto
+## Como Executar o Projeto
 
 Clone o repositório:
 ````bash
