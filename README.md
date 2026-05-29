@@ -40,3 +40,36 @@ Resolução de Problemas de Engenharia
 
 Aplicar conceitos matemáticos e computacionais na resolução de situações reais da engenharia, utilizando Python como ferramenta de cálculo, automação e análise gráfica.
 Além disso, o desenvolvimento do projeto teve como foco fortalecer habilidades em raciocínio lógico, análise de dados e resolução de problemas computacionais, utilizando bibliotecas Python para automatizar cálculos e gerar representações gráficas que facilitam a interpretação dos resultados. O projeto também evidencia a importância da tecnologia e da programação no contexto da engenharia moderna, mostrando como ferramentas computacionais podem auxiliar em tomadas de decisão, análises matemáticas e modelagens aplicadas em áreas como Engenharia Civil, Mecânica, Elétrica, Produção e Computação.
+
+## 🛠️ Como Executar o Projeto
+
+Clone o repositório:
+````bash
+git clone https://github.com/guricartee/matematica-com-python.git
+````
+
+Acesse a pasta do projeto:
+````bash
+cd matematica-computacional-python
+````
+Instale as bibliotecas necessárias:
+````bash
+pip install pandas matplotlib numpy
+````
+
+Abra o projeto utilizando uma das opções abaixo:
+
+Google Colab
+
+Jupyter Notebook
+
+VS Code com extensão Python
+
+Caso utilize Jupyter Notebook, execute:
+````bash
+jupyter notebook
+````
+Abra o arquivo:
+````bash
+Projeto_A3.ipynb
+````
